@@ -1,2 +1,3 @@
-name = input("What is your name? ")
-print(f"Hello, {name}! Welcome to Python.")
+items = ["Apple", "Banana", "Cherry"]
+for item in items:
+    print(f"I like {item}")
