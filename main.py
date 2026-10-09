@@ -1,3 +1,7 @@
-items = ["Apple", "Banana", "Cherry"]
-for item in items:
-    print(f"I like {item}")
+
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Python.")
+
+# comment 
+print("hello g")
+
